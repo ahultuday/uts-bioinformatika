@@ -1,0 +1,9 @@
+<beast>
+  <run chainLength="1000000">
+    <state>
+      <!-- Placeholder untuk parameter dan tree -->
+    </state>
+    <init estimate="true" initial="@tree">treeModel</init>
+    <logger fileName="output.log" logEvery="1000" model="@posterior"/>
+  </run>
+</beast>
