@@ -1,7 +1,7 @@
 # UTS Bioinformatika - Analisis Filogenetik dengan Bayesian Inference
 
 **Disusun oleh:**
-- A. Mishbahul Munier
+- Ahmad Mishbahul Munier
 
 ## Struktur Folder
 - `laporan.ipynb`: Notebook utama analisis
